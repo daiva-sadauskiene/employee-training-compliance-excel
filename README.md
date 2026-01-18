@@ -15,7 +15,14 @@ Demonstrate practical Excel skills for HR and compliance-related reporting.
 - Pivot Table showing training status distribution by department
 - Employee count per training status (Completed / In Progress / Not Started)
 
-## Files
-- 01_employees_list.png
-- 02_training_records_list.png
-- 03_pivot_training_status_by_department.png
+
+## Screenshots
+
+### Employee list
+![Employee list](01_employees_list.png)
+
+### Training records
+![Training records](02_training_records_list.png)
+
+### Training status by department (Pivot)
+![Pivot](03_pivot_training_status_by_department.png)
