@@ -6,7 +6,8 @@ Excel-based HR compliance example demonstrating employee training tracking using
 - **Employees** – employee list with ID, name, department, and hire date
 - **Training_Records** – training completion data  
   - Training records table was renamed to **Employee2** and used as the lookup source
-
+  - All employee names, IDs, and dates in this example are fictional and used solely for demonstration purposes.
+    
 ## Goal
 Demonstrate practical Excel skills for HR and compliance-related reporting.
 
