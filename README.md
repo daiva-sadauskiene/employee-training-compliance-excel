@@ -10,6 +10,9 @@ Excel-based HR compliance example demonstrating employee training tracking using
 ## Goal
 Demonstrate practical Excel skills for HR and compliance-related reporting.
 
+## Excel logic
+In the **Employees** sheet, training status is retrieved from the training records using **VLOOKUP** based on EMPLOYEE_ID.
+
 ## Key Excel features
 - VLOOKUP to assign training status to employees
 - Pivot Table showing training status distribution by department
